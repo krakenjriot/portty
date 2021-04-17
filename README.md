@@ -1,4 +1,9 @@
-# PORTTY - Arduino / Serial Port Tester
-## step 1 - extract the zip file
-## step 2 - upload hex file to arduino uno (only)
-## step 3 - run the portty.exe
+#Learn how to use and test your Arduino board, without learning to program
+##portty.exe is a small application developed from python that enables anyone to manipulate Arduino pins state by using a simple set of commands
+
+##The application uses the toggle concept - which means, every time you trigger the pin using the portty.exe, the application will reverse the pin current state from ##0 to 1 and vice versa.
+
+#Download Link
+##https://github.com/krakenjriot/portty​
+
+#Please don't forget to like and subscribe
