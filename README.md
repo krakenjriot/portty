@@ -7,3 +7,5 @@
 ## https://www.youtube.com/watch?v=ccLodw6VEYc&t=19s
 
 <img src="https://github.com/krakenjriot/portty/blob/main/SWR_WIRING.png">
+
+<img src="https://github.com/krakenjriot/portty/blob/main/DHTxx_WIRING.png">
