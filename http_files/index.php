@@ -1,3 +1,5 @@
+<?php include_once("functions.php"); ?>
+
 <html>
    <head>
       <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
@@ -11,7 +13,7 @@
       </br>
       <form id="myForm" name="myForm" method="POST"> 		
          <label class="form-label" for="PIN8">----->PIN #8)</label>	
-         <input type="checkbox" name="PIN8" id="mybutton" data-toggle="toggle" data-off="OFF" data-on="ON" >
+         <input type="checkbox" name="PIN8" id="mybutton" data-toggle="toggle" data-off="OFF" data-on="ON" <?php echo toggle_state(8); ?> >
       </form>
       </div>
       <div></div>
