@@ -13,7 +13,7 @@
       </br>
       <form id="myForm" name="myForm" method="POST"> 		
          <label class="form-label" for="PIN8">----->PIN #8)</label>	
-         <input type="checkbox" name="PIN8" id="mybutton" data-toggle="toggle" data-off="OFF" data-on="ON" <?php echo toggle_state(8); ?> >
+         <input type="checkbox" name="PIN8" id="mybutton" data-toggle="toggle" data-off="P8" data-on="P8" <?php echo toggle_state(8); ?> >
       </form>
       </div>
       <div></div>
