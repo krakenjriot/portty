@@ -12,7 +12,7 @@
    <body>
       </br>
       <form id="myForm" name="myForm" method="POST"> 		
-         <label class="form-label" for="PIN8">----->PIN #8)</label>	
+         <label class="form-label" for="PIN8">-----> Water Pump</label>	
          <input type="checkbox" name="PIN8" id="mybutton" data-toggle="toggle" data-off="P8" data-on="P8" <?php echo toggle_state(8); ?> >
       </form>
       </div>
