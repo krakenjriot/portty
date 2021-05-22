@@ -1,0 +1,55 @@
+<?php 
+
+	//$config = include 'config.php';
+	//$config['var_2']= 'value_3';
+	//file_put_contents('config.php', '$config = ' . var_export($config));
+
+	return array(
+	
+	   'board_name'=> 'b1',
+	   'conf_dir'=> 'C:\tmp\conf',
+	   
+	   'name0'=> 'default name',
+	   'name1'=> 'default name',
+	   'name2'=> 'default name',
+	   'name3'=> 'default name',
+	   'name4'=> 'Kitchen Light',
+	   'name5'=> 'Main Room Light',
+	   'name6'=> 'default name',
+	   'name7'=> 'default name',
+	   'name8'=> 'default name',
+	   'name9'=> 'default name',
+	   'name10'=> 'default name',
+	   'name11'=> 'default name',
+	   'name12'=> 'default name',
+	   'name13'=> 'default name',
+	   'name14'=> 'default name',
+	   'name15'=> 'default name',
+	   'name16'=> 'default name',
+	   'name17'=> 'default name',
+	   'name18'=> 'default name',
+	   'name19'=> 'default name',
+	   
+	   
+	   'desc0'=> 'default description',
+	   'desc1'=> 'default description',
+	   'desc2'=> 'default description',
+	   'desc3'=> 'default description',
+	   'desc4'=> 'default description',
+	   'desc5'=> 'default description',
+	   'desc6'=> 'default description',
+	   'desc7'=> 'default description',
+	   'desc8'=> 'default description',
+	   'desc9'=> 'default description',
+	   'desc10'=> 'default description',
+	   'desc11'=> 'default description',
+	   'desc12'=> 'default description',
+	   'desc13'=> 'default description',
+	   'desc14'=> 'default description',
+	   'desc15'=> 'default description',
+	   'desc16'=> 'default description',
+	   'desc17'=> 'default description',
+	   'desc18'=> 'default description',
+	   'desc19'=> 'default description'
+	   
+	);
