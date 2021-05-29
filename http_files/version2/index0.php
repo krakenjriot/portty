@@ -40,7 +40,11 @@ tr:nth-child(even) {
 	<td><a href="?p=6">SHOW LIMITS</a></td>
 	<td>Show Min, Max values and Min.pin, Range.pin and Max.pin</td>
 	</tr>
-
+  <tr>
+	<td><a href="#">SET LIMITS</a></td>
+	<td>Default Limits</td>
+	</tr>	
+	
   <tr>
 	<td><a href="?p=5">SHOW INPUT</a></td>
 	<td>Data sent by sensors</td>
@@ -50,15 +54,20 @@ tr:nth-child(even) {
 	<td><a href="?p=4">SHOW OUTPUT</a></td>
 	<td>Output Pin Values</td>
 	</tr>		
- 
-  <tr>
-	<td><a href="#">CHARTS</a></td>
-	<td>Charted Sensor Data Statistics</td>
-	</tr>	
 
   <tr>
 	<td><a href="?p=3">SHOW CONFIG</a></td>
 	<td>Configuration Values</td>
+	</tr>
+ 
+  <tr>
+	<td><a href="#">SET CONFIG</a></td>
+	<td>Default Config</td>
+	</tr>	
+
+  <tr>
+	<td><a href="#">CHARTS</a></td>
+	<td>Charted Sensor Data Statistics</td>
 	</tr>
 
 

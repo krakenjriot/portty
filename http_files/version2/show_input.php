@@ -1,3 +1,8 @@
+
+
+
+
+
 <?php
 
 ?>
@@ -21,7 +26,7 @@
 $(document).ready(function() {
      var refresh = function () {
 	//uptime.php p4	 
-	$('#sensor_data0').load('?p=4&s=<?php echo $session_id; ?>&ty=<?php echo $type; ?>');
+	$('#sensor_data0').load('?p=9');
      }
      setInterval(refresh, 1000);
      refresh();
@@ -34,19 +39,14 @@ $(document).ready(function() {
 </head>
 
 <body>
-	
-		<div class="col-md-6 no-gutters">
+<a href="?p=1"><label>Back to Main Page</label></a>	
+		
 			<div class="hbd d-flex justify-content-center align-items-center">
 				<table cellpadding=0 cellspacing=0 border=0>
-				<tr><td><i class="fa fa-heartbeat fa-5x" aria-hidden="true"></i></td></tr>
-				<tr><td><b style="font-size: 26px">Heartbeat Delay</b></td></tr>
-				<tr><td><div id="sensor_data0" style="font-size: 26px">Loading...</div></td></tr>			
+				<tr><td><div id="sensor_data0">Loading...</div></td></tr>			
 				</table>			
 			</div>
-		</div>
 
-		
-	
-	</br>
+<a href="?p=1"><label>Back to Main Page</label></a>
 </body>
 </html>

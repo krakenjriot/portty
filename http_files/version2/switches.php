@@ -40,12 +40,7 @@ tr:nth-child(even) {
 
 			
        
-			
-            <tr>
-               <td><h2>Board Name: <?php echo $config['board_name']; ?></h2></td>   
-               <td></td>
-				<td></td>			   
-            </tr>
+	
 
 			
             <tr>
@@ -55,137 +50,137 @@ tr:nth-child(even) {
             </tr>
 			
 			<tr>
-               <th>Device</th>               
+               <th>Name</th>               
                <th>Switch</th>
                <th>Description</th>
             </tr>
 			
+			<!--
             <tr>
-				<td><label for="switch0"><?php echo $config['name0']; ?></label></td>       
+				<td><label for="switch0"><a href="?p=7&name=name0"><?php echo $config['name0']; ?></a></label></td>       
 				<td><input type="checkbox" name="switch_name0" id="switch0" data-toggle="toggle" data-off="p0" data-on="p0" <?php echo toggle_state(0); ?> disabled></td>
 				<td><?php echo $config['desc0']; ?></td>
             </tr>
 
             <tr>
-				<td><label for="switch1"><?php echo $config['name1']; ?></label></td>      
+				<td><label for="switch1"><a href="?p=7&name=name1"><?php echo $config['name1']; ?></a></label></td>       
 				<td><input type="checkbox" name="switch_name1" id="switch1" data-toggle="toggle" data-off="p1" data-on="p1" <?php echo toggle_state(1); ?> disabled></td>
 				<td><?php echo $config['desc1']; ?></td>
             </tr>
 			
             <tr>
-				<td><label for="switch2"><?php echo $config['name2']; ?></label></td>        
+				<td><label for="switch2"><a href="?p=7&name=name2"><?php echo $config['name2']; ?></a></label></td>       
 				<td><input type="checkbox" name="switch_name2" id="switch2" data-toggle="toggle" data-off="p2" data-on="p2" <?php echo toggle_state(2); ?> disabled></td>
 				<td><?php echo $config['desc2']; ?></td>
             </tr>			
 			
             <tr>
-				<td><label for="switch3"><?php echo $config['name3']; ?></label></td>        
+				<td><label for="switch3"><a href="?p=7&name=name3"><?php echo $config['name3']; ?></a></label></td>       
 				<td><input type="checkbox" name="switch_name3" id="switch3" data-toggle="toggle" data-off="p3" data-on="p3" <?php echo toggle_state(3); ?> disabled></td>
 				<td><?php echo $config['desc3']; ?></td>
             </tr>			
+			-->
 			
 			
             <tr>
-				<td><label for="switch4"><?php echo $config['name4']; ?></label></td>        
+				<td><label for="switch4"><a href="?p=7&name=name4"><?php echo $config['name4']; ?></a></label></td>       
 				<td><input type="checkbox" name="switch_name4" id="switch4" data-toggle="toggle" data-off="p4" data-on="p4" <?php echo toggle_state(4); ?> ></td>
-				<td><?php echo $config['desc4']; ?></td>
+				<td><a href="?p=7&name=desc4"><?php echo $config['desc4']; ?></a></td>
             </tr>			
 			
 			
             <tr>
-				<td><label for="switch5"><?php echo $config['name5']; ?></label></td>        
+				<td><label for="switch5"><a href="?p=7&name=name5"><?php echo $config['name5']; ?></a></label></td>       
 				<td><input type="checkbox" name="switch_name5" id="switch5" data-toggle="toggle" data-off="p5" data-on="p5" <?php echo toggle_state(5); ?> ></td>
-				<td><?php echo $config['desc5']; ?></td>
+				<td><a href="?p=7&name=desc5"><?php echo $config['desc5']; ?></a></td>
             </tr>			
 			
 			
             <tr>
-				<td><label for="switch6"><?php echo $config['name6']; ?></label></td>        
+				<td><label for="switch6"><a href="?p=7&name=name6"><?php echo $config['name6']; ?></a></label></td>       
 				<td><input type="checkbox" name="switch_name6" id="switch6" data-toggle="toggle" data-off="p6" data-on="p6" <?php echo toggle_state(6); ?> ></td>
-				<td><?php echo $config['desc6']; ?></td>
+				<td><a href="?p=7&name=desc6"><?php echo $config['desc6']; ?></a></td>
             </tr>			
 			
 			
             <tr>
-				<td><label for="switch7"><?php echo $config['name7']; ?></label></td>        
+				<td><label for="switch7"><a href="?p=7&name=name7"><?php echo $config['name7']; ?></a></label></td>       
 				<td><input type="checkbox" name="switch_name7" id="switch7" data-toggle="toggle" data-off="p7" data-on="p7" <?php echo toggle_state(7); ?> ></td>
-				<td><?php echo $config['desc7']; ?></td>
+				<td><a href="?p=7&name=desc7"><?php echo $config['desc7']; ?></a></td>
             </tr>			
 			
             <tr>
-				<td><label for="switch8"><?php echo $config['name8']; ?></label></td>        
+				<td><label for="switch8"><a href="?p=7&name=name8"><?php echo $config['name8']; ?></a></label></td>            
 				<td><input type="checkbox" name="switch_name8" id="switch8" data-toggle="toggle" data-off="p8" data-on="p8" <?php echo toggle_state(8); ?> ></td>
-				<td><?php echo $config['desc8']; ?></td>
+				<td><a href="?p=7&name=desc8"><?php echo $config['desc8']; ?></a></td>
             </tr>			
 			
             <tr>
-				<td><label for="switch9"><?php echo $config['name9']; ?></label></td>        
+				<td><label for="switch9"><a href="?p=7&name=name9"><?php echo $config['name9']; ?></a></label></td>       
 				<td><input type="checkbox" name="switch_name9" id="switch9" data-toggle="toggle" data-off="p9" data-on="p9" <?php echo toggle_state(9); ?> ></td>
-				<td><?php echo $config['desc9']; ?></td>
+				<td><a href="?p=7&name=desc9"><?php echo $config['desc9']; ?></a></td>
             </tr>			
 			
             <tr>
-				<td><label for="switch10"><?php echo $config['name10']; ?></label></td>        
+				<td><label for="switch10"><a href="?p=7&name=name10"><?php echo $config['name10']; ?></a></label></td>             
 				<td><input type="checkbox" name="switch_name10" id="switch10" data-toggle="toggle" data-off="p10" data-on="p10" <?php echo toggle_state(10); ?> ></td>
-				<td><?php echo $config['desc10']; ?></td>
+				<td><a href="?p=7&name=desc10"><?php echo $config['desc10']; ?></a></td>
             </tr>			
 			
             <tr>
-				<td><label for="switch11"><?php echo $config['name11']; ?></label></td>        
+				<td><label for="switch11"><a href="?p=7&name=name11"><?php echo $config['name11']; ?></a></label></td>       
 				<td><input type="checkbox" name="switch_name11" id="switch11" data-toggle="toggle" data-off="p11" data-on="p11" <?php echo toggle_state(11); ?> ></td>
-				<td><?php echo $config['desc11']; ?></td>
+				<td><a href="?p=7&name=desc11"><?php echo $config['desc11']; ?></a></td>
             </tr>			
 			
             <tr>
-				<td><label for="switch12"><?php echo $config['name12']; ?></label></td>        
+				<td><label for="switch12"><a href="?p=7&name=name12"><?php echo $config['name12']; ?></a></label></td>             
 				<td><input type="checkbox" name="switch_name12" id="switch12" data-toggle="toggle" data-off="p12" data-on="p12" <?php echo toggle_state(12); ?> ></td>
-				<td><?php echo $config['desc12']; ?></td>
+				<td><a href="?p=7&name=desc12"><?php echo $config['desc12']; ?></a></td>
             </tr>			
 			
             <tr>
-				<td><label for="switch13"><?php echo $config['name13']; ?></label></td>        
+				<td><label for="switch13"><a href="?p=7&name=name13"><?php echo $config['name13']; ?></a></label></td>       
 				<td><input type="checkbox" name="switch_name13" id="switch13" data-toggle="toggle" data-off="p13" data-on="p13" <?php echo toggle_state(13); ?> ></td>
-				<td><?php echo $config['desc13']; ?></td>
+				<td><a href="?p=7&name=desc13"><?php echo $config['desc13']; ?></a></td>
             </tr>			
 			
             <tr>
-				<td><label for="switch14"><?php echo $config['name14']; ?></label></td>        
+				<td><label for="switch14"><a href="?p=7&name=name14"><?php echo $config['name14']; ?></a></label></td>       
 				<td><input type="checkbox" name="switch_name14" id="switch14" data-toggle="toggle" data-off="p14" data-on="p14" <?php echo toggle_state(14); ?> ></td>
-				<td><?php echo $config['desc14']; ?></td>
+				<td><a href="?p=7&name=desc14"><?php echo $config['desc14']; ?></a></td>
             </tr>			
 			
             <tr>
-				<td><label for="switch15"><?php echo $config['name15']; ?></label></td>        
+				<td><label for="switch15"><a href="?p=7&name=name15"><?php echo $config['name15']; ?></a></label></td>              
 				<td><input type="checkbox" name="switch_name15" id="switch15" data-toggle="toggle" data-off="p15" data-on="p15" <?php echo toggle_state(15); ?> ></td>
-				<td><?php echo $config['desc15']; ?></td>
+				<td><a href="?p=7&name=desc15"><?php echo $config['desc15']; ?></a></td>
             </tr>
 
             <tr>
-				<td><label for="switch16"><?php echo $config['name16']; ?></label></td>        
+				<td><label for="switch16"><a href="?p=7&name=name16"><?php echo $config['name16']; ?></a></label></td>       
 				<td><input type="checkbox" name="switch_name16" id="switch16" data-toggle="toggle" data-off="p16" data-on="p16" <?php echo toggle_state(16); ?> ></td>
-				<td><?php echo $config['desc16']; ?></td>
+				<td><a href="?p=7&name=desc16"><?php echo $config['desc16']; ?></a></td>
             </tr>
 
             <tr>
-				<td><label for="switch17"><?php echo $config['name17']; ?></label></td>        
+				<td><label for="switch17"><a href="?p=7&name=name17"><?php echo $config['name17']; ?></a></label></td>          
 				<td><input type="checkbox" name="switch_name17" id="switch17" data-toggle="toggle" data-off="p17" data-on="p17" <?php echo toggle_state(17); ?> ></td>
-				<td><?php echo $config['desc17']; ?></td>
+				<td><a href="?p=7&name=desc17"><?php echo $config['desc17']; ?></a></td>
             </tr>
 
             <tr>
-				<td><label for="switch18"><?php echo $config['name18']; ?></label></td>        
+				<td><label for="switch18"><a href="?p=7&name=name18"><?php echo $config['name18']; ?></a></label></td>       
 				<td><input type="checkbox" name="switch_name18" id="switch18" data-toggle="toggle" data-off="p18" data-on="p18" <?php echo toggle_state(18); ?> ></td>
-				<td><?php echo $config['desc18']; ?></td>
+				<td><a href="?p=7&name=desc18"><?php echo $config['desc18']; ?></a></td>
             </tr>
 
             <tr>
-				<td><label for="switch19"><?php echo $config['name19']; ?></label></td>        
+				<td><label for="switch19"><a href="?p=7&name=name19"><?php echo $config['name19']; ?></a></label></td>       
 				<td><input type="checkbox" name="switch_name19" id="switch19" data-toggle="toggle" data-off="p19" data-on="p19" <?php echo toggle_state(19); ?> ></td>
-				<td><?php echo $config['desc19']; ?></td>
+				<td><a href="?p=7&name=desc19"><?php echo $config['desc19']; ?></a></td>
             </tr>
 
-         		
-			
             <tr>
                <td><a href="?p=1"><label>Back to Main Page</label></a></td>   
                <td></td>
