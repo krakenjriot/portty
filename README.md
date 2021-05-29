@@ -11,3 +11,4 @@
 <img src="https://github.com/krakenjriot/portty/blob/main/LED.png">
 <img src="https://github.com/krakenjriot/portty/blob/main/SWR_WIRING.png">
 <img src="https://github.com/krakenjriot/portty/blob/main/DHTxx_WIRING.png">
+<img src="https://github.com/krakenjriot/portty/blob/main/SAMPLE-INDUSTRIAL-SETUP.png">
