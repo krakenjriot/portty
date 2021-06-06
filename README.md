@@ -34,7 +34,7 @@ Building the bundle
 Prerequisites 
 ============
 
-[HOW TO USE XLOADER](README-XLOADER.md)
+[Upload Hex File](README-XLOADER.md)
 ============
 
 Upload Hex File
