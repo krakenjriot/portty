@@ -25,7 +25,7 @@ Sample Setup
 ============
 
 FLASHING THE BOARD
-============
+--------------------
 
 
 Upload Hex File

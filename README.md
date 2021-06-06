@@ -35,7 +35,7 @@ Prerequisites
 ============
 
 [Upload Hex File](README-XLOADER.md)
-============
+--------------------
 
 Upload Hex File
 --------------------
@@ -82,7 +82,7 @@ portty.exe b1 com10
 ```
 
 
---------------------
+
 
 Building the bundle
 --------------------
