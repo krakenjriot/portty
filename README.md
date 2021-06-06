@@ -41,7 +41,7 @@ Running the command PORTTY.exe
 - Syntax     : `portty.exe <board-name> <com-port>`
 - Example    : `portty.exe MYBOARD com10`
   
-To start the portty.exe with the above settings
+To start the portty.exe with the above sample setup
 
 ```sh
 portty.exe MYBOARD com10
