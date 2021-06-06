@@ -4,11 +4,6 @@
 
 Sample Setup
 ============
-
-|   Board Name  |   COM   | LED +   |   LED -|
-|       MYBOARD  | COM10   | 13    |   GND  |
-
-
 | BOARD NAME  | COM | LED + | LED - |
 | --------------- | --------------- | --------------- | --------------- |
 | MYBOARD     | COM10 | 13 | GND |
