@@ -49,7 +49,7 @@ To start the portty.exe with the above sample setup
 portty.exe MYBOARD com10
 ```
 
-Output of the above command
+Output of the above command line
 --------------------
 
 ```sh
