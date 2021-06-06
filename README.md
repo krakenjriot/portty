@@ -37,7 +37,7 @@ Prerequisites
 --------------------
 - Upload the PORTTY Hex file  ([show me how](README-XLOADER.md))
 
-Running the command PORTTY.exe
+PORTTY.exe
 --------------------
 
 - Syntax     : `portty.exe <board-name> <com-port>`
