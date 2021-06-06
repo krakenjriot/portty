@@ -23,8 +23,12 @@ Sample Setup
 
 UPLOAD THE PORTTY HEX FILE (FLASHING THE BOARD)
 --------------------
+
 #### Uploading the hex file will convert your Arduno board into a `switch board`, meaning to say pin 4 to 19 can be use for LED (for testing) or switching relays
 
+Let's start flashing now!
+--------------------
+* Download the package and extract
 * Inside the package there is a folder named `xloader`, in it the applicaiton `xloader.exe` is located.
 	<img src="https://github.com/krakenjriot/portty/blob/main/images/xload-folder.png" width="750" /> 
 * Select and right-click to run it as administrator
