@@ -4,12 +4,18 @@
 
 Sample Setup
 ============
-| BOARD NAME  | COM | LED + | LED - |
-| --------------- | --------------- | --------------- | --------------- |
-| MYBOARD     | COM10 | 13 | GND |
+| COMPONENT  |  LED + | LED - |
+| --------------- | --------------- |  --------------- | 
+| LED     | 13 | GND |
 
 
-<img src="https://github.com/krakenjriot/portty/blob/main/led-sample.png" width="750" />    
+| BOARD TYPE | BOAD NAME | COM # | 
+| --------------- | --------------- | --------------- | 
+| UNO     | MYBOARD | COM10 | 
+
+
+
+<img src="https://github.com/krakenjriot/portty/blob/main/images/led-sample.png" width="750" />    
 
 
 
