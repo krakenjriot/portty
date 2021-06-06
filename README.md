@@ -44,8 +44,11 @@ open the folder /xloader/
 run the xloader.exe
 <img src="https://github.com/krakenjriot/portty/blob/main/images/xloader.png" width="750" />   
 
+select the hex file in /hex folder
+<img src="https://github.com/krakenjriot/portty/blob/main/images/hex-folder.png" width="750" />   
 
-
+select the hex file in /hex folder
+<img src="https://github.com/krakenjriot/portty/blob/main/images/select-hex.png" width="750" />   
 
 
   
