@@ -33,7 +33,7 @@ Building the bundle
 
 Prerequisites 
 --------------------
-Upload the PORTTY Hex file  (show me how](README-XLOADER.md))
+Upload the PORTTY Hex file  ([show me how](README-XLOADER.md))
 
 
 
