@@ -29,11 +29,23 @@ Introduction
 Prerequisites 
 ============
 
+
 Basic Syntax 
 ============
 
 Basic Syntax 
 ============
+
+
+[Purpose](link)
+
+[Scope](link)
+
+[Work Practice](link)
+
+[Daily Briefing](link)
+
+
 Example. Arduino Uno connected to com10, b1 as board name (any name is possible)
 Syntax     : portty.exe <board-name> <com-port>
 Example    : portty.exe myboard com5
