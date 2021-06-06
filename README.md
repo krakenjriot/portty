@@ -2,7 +2,7 @@
   <img src="https://github.com/krakenjriot/portty/blob/main/PORTTY.png">
 </p>
 
- <img src="https://github.com/krakenjriot/portty-dashboard/blob/main/help/images/main.png" width="750" />     
+ <img src="https://github.com/krakenjriot/portty-dashboard/blob/main/help/images/led-sample.png" width="750" />     
 
 # OS Requirement: Windows 8 and up
 # Learn how to use and test your Arduino board, without learning to program
