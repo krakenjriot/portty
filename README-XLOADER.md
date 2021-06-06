@@ -35,7 +35,7 @@ Let's start flashing now!
 	<img src="https://github.com/krakenjriot/portty/blob/main/images/right-click-admin.png" width="750" /> 
 * Once its opened click the three dotted button, and look for the hex that match
 the board and sensor type, to find the hex file go back the directory and look for the folder named `hex` 
-( based on the above sample the board is Mega and the sensor is DHT11 and so `dht11_mega.hex` and so it is selected) 
+( based on the above sample the board is Mega and the sensor is DHT11 and so `dht11_mega.hex` is selected) 
 * and for the com port (it is COM10) and baud rate (leave it as default)
 
 * Once all settings are confirmed correct 
