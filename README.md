@@ -38,10 +38,10 @@ Upload the PORTTY Hex file  ([show me how](README-XLOADER.md))
 Running the command PORTTY.exe
 --------------------
 
-Syntax     : portty.exe <board-name> <com-port>
-Example    : portty.exe myboard com5
+- Syntax     : portty.exe <board-name> <com-port>
+- Example    : portty.exe myboard com5
   
-`To start the portty.exe with the above settings`
+To start the portty.exe with the above settings
 
 ```sh
 portty.exe MYBOARD com10
