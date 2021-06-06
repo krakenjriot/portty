@@ -2,11 +2,20 @@
   <img src="https://github.com/krakenjriot/portty/blob/main/PORTTY.png">
 </p>
 
-<img src="https://github.com/krakenjriot/portty/blob/main/led-sample.png" width="750" />     
+Sample Setup
+============
 
-# OS Requirement: Windows 8 and up
-# Learn how to use and test your Arduino board, without learning to program
-# portty.exe is a small application developed from python that enables anyone to manipulate Arduino Board pins state by using a simple set of commands
+|   Board Name  |   COM   | LED +   |   LED -|
+|       MYBOARD  | COM10   | 13    |   GND  |
+
+
+| BOARD NAME  | COM | LED + | LED - |
+| --------------- | --------------- | --------------- | --------------- |
+| MYBOARD     | COM10 | 13 | GND |
+
+
+<img src="https://github.com/krakenjriot/portty/blob/main/led-sample.png" width="750" />    
+
 
 
 Basic Syntax 
