@@ -26,11 +26,16 @@ Sample Setup
 Introduction 
 ============
 
+Building the bundle
+--------------------
+
+
+
 Prerequisites 
 ============
-upload portty hex file 
-## Version v1.3
-## Introduction
+
+Upload Hex File
+--------------------
 
 
 Basic Syntax 
