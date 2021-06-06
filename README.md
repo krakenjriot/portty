@@ -116,7 +116,7 @@ PORTTYMON
  
 PORTTYMOD
 --------------------
-- Syntax     : `porttymod.exe <board-name> <com-port> <refresh-rate>`
+- Syntax     : `porttymod.exe <board-name> <pin-num> <mode>`
 
 
 
