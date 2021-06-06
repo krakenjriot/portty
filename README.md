@@ -32,10 +32,10 @@ Building the bundle
 
 
 Prerequisites 
-============
-
-[Upload Hex File](README-XLOADER.md)
 --------------------
+
+**	Upload the PORTTY Hex file - check this link how to [upload hex file](README-XLOADER.md)
+
 
 Upload Hex File
 --------------------
