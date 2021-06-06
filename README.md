@@ -4,15 +4,21 @@
 
 Sample Setup
 ============
-| COMPONENT  |  LED + | LED - |
-| --------------- | --------------- |  --------------- | 
-| LED     | 13 | GND |
+
 
 
 | BOARD TYPE | BOAD NAME | COM # | 
 | --------------- | --------------- | --------------- | 
 | UNO     | MYBOARD | COM10 | 
 
+| COMPONENT  |  LED + | LED - |
+| --------------- | --------------- |  --------------- | 
+| LED     | 13 | GND |
+
+
+| COMPONENT	|  DATA | VCC	|	GND |
+| --------------- | --------------- |  --------------- |   --------------- | 
+| DHT11     | 2 | 5V | GND |
 
 
 <img src="https://github.com/krakenjriot/portty/blob/main/images/led-sample.png" width="750" />    
