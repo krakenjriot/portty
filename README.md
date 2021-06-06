@@ -102,9 +102,33 @@ And if you want to know the sensor reading, typing t or h will give you temperat
 That's it. Enjoy PORTTYing! 
 
 [Up](#Introduction)
- 
+
+
+PORTTYMON.exe
+--------------------
+- Syntax     : `porttymon.exe <board-name> <com-port> <refresh-rate>`
+
+
+
+
+[Up](#Introduction)
 
  
+PORTTYMOD.exe
+--------------------
+- Syntax     : `porttymon.exe <board-name> <com-port> <refresh-rate>`
+
+
+
+
+[Up](#Introduction)
  
+PORTTYSEN.exe
+--------------------
+- Syntax     : `porttymon.exe <board-name> <com-port> <refresh-rate>`
+
+
+
+[Up](#Introduction) 
 
  
