@@ -39,10 +39,10 @@ Example. Arduino Uno connected to com10, b1 as board name (any name is possible)
 Syntax     : portty.exe <board-name> <com-port>
 Example    : portty.exe myboard com5
   
-`To start the portty.exe with the above setup`
+`To start the portty.exe with the above settings`
 
 ```sh
-portty.exe b1 com10
+portty.exe MYBOARD com10
 ```
 
 
