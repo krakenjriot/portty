@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/krakenjriot/portty/blob/main/PORTTY.png">
+  <img src="https://github.com/krakenjriot/portty/blob/main/images/portty.png">
 </p>
 
 Sample Setup
