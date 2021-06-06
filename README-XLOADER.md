@@ -42,3 +42,8 @@ your arduino board type, com port and baud rate.
 ### select the hex file inside /hex folder
 <img src="https://github.com/krakenjriot/portty/blob/main/images/hex-folder.png" width="750" />   
 <img src="https://github.com/krakenjriot/portty/blob/main/images/select-hex.png" width="750" />   
+
+### click upload
+<img src="https://github.com/krakenjriot/portty/blob/main/images/upload-complete.png" width="750" /> 
+
+
