@@ -38,7 +38,7 @@ Prerequisites
 - Upload the PORTTY Hex file  ([show me how](README-XLOADER.md))
 
 PORTTY
---------------------
+============
 
 - Syntax     : `portty.exe <board-name> <com-port>`
   
@@ -105,7 +105,7 @@ That's it. Enjoy PORTTYing!
 
 
 PORTTYMON
---------------------
+============
 - Syntax     : `porttymon.exe <board-name> <com-port> <refresh-rate>`
 
 
@@ -115,7 +115,7 @@ PORTTYMON
 
  
 PORTTYMOD
---------------------
+============
 - Syntax     : `porttymod.exe <board-name> <pin-num> <mode>`
 
 
@@ -124,7 +124,7 @@ PORTTYMOD
 [Up](#Introduction)
  
 PORTTYSEN
---------------------
+============
 - Syntax     : `porttysen.exe <board-name> <com-port> <refresh-rate>`
 
 
