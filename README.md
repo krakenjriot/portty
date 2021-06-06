@@ -45,8 +45,24 @@ Example    : portty.exe myboard com5
 portty.exe MYBOARD com10
 ```
 
+`Output of the above command`
+```sh
+Usage      : Internet of Things Trainer Application
+Application: PORTTY
+Version    : v1.0
+Board Type : Arduino Uno
+Licence    : MIT
 
+Status     : Connected
+Serial Port: com10
+Baud Rate  : 9600
+Board Alias: MYBOARD
 
+Help       : ?
+Exit       : x
+
+Toggle Pin Number:
+```
 
 Building the bundle
 --------------------
