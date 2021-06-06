@@ -38,8 +38,10 @@ Upload Hex File
 --------------------
 Inside the package there is a folder named `/hex` run the xloader.exe and select the hex file configuration that will 
 match your arduino type and sensor
+<img src="https://github.com/krakenjriot/portty/blob/main/images/xload-folder.png" width="750" /> 
 <img src="https://github.com/krakenjriot/portty/blob/main/images/xloader.png" width="750" />   
-<img src="https://github.com/krakenjriot/portty/blob/main/images/xload-folder.png" width="750" />   
+  
+
 
 Basic Syntax 
 ============
