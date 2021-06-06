@@ -28,16 +28,16 @@ Introduction
 
 Command Line Applications
 --------------------
-- [portty.exe](#PORTTY.exe)
-- [porttymon.exe](#PORTTYMON.exe)
-- porttymod.exe
-- porttysen.exe
+- [portty.exe](#PORTTY)
+- [porttymon.exe](#PORTTYMON)
+- [porttymod.exe](#PORTTYMOD)
+- [porttysen.exe](#PORTTYSEN)
 
 Prerequisites 
 --------------------
 - Upload the PORTTY Hex file  ([show me how](README-XLOADER.md))
 
-PORTTY.exe
+PORTTY
 --------------------
 
 - Syntax     : `portty.exe <board-name> <com-port>`
@@ -104,7 +104,7 @@ That's it. Enjoy PORTTYing!
 [Up](#Introduction)
 
 
-PORTTYMON.exe
+PORTTYMON
 --------------------
 - Syntax     : `porttymon.exe <board-name> <com-port> <refresh-rate>`
 
@@ -114,18 +114,18 @@ PORTTYMON.exe
 [Up](#Introduction)
 
  
-PORTTYMOD.exe
+PORTTYMOD
 --------------------
-- Syntax     : `porttymon.exe <board-name> <com-port> <refresh-rate>`
+- Syntax     : `porttymod.exe <board-name> <com-port> <refresh-rate>`
 
 
 
 
 [Up](#Introduction)
  
-PORTTYSEN.exe
+PORTTYSEN
 --------------------
-- Syntax     : `porttymon.exe <board-name> <com-port> <refresh-rate>`
+- Syntax     : `porttysen.exe <board-name> <com-port> <refresh-rate>`
 
 
 
