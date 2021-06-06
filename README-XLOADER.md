@@ -43,8 +43,8 @@ and for the com port (it is COM10) and baud rate (leave it as default)
 * Click upload and wait to complete
 
 
-<img src="https://github.com/krakenjriot/portty/blob/main/images/xload-folder.png" width="750" /> 
-<img src="https://github.com/krakenjriot/portty/blob/main/images/xloader.png" width="750" />   
-<img src="https://github.com/krakenjriot/portty/blob/main/images/hex-folder.png" width="750" />   
-<img src="https://github.com/krakenjriot/portty/blob/main/images/select-hex.png" width="750" />   
-<img src="https://github.com/krakenjriot/portty/blob/main/images/upload-completed.png" width="750" /> 
+	<img src="https://github.com/krakenjriot/portty/blob/main/images/xload-folder.png" width="750" /> 
+	<img src="https://github.com/krakenjriot/portty/blob/main/images/xloader.png" width="750" />   
+	<img src="https://github.com/krakenjriot/portty/blob/main/images/hex-folder.png" width="750" />   
+	<img src="https://github.com/krakenjriot/portty/blob/main/images/select-hex.png" width="750" />   
+	<img src="https://github.com/krakenjriot/portty/blob/main/images/upload-completed.png" width="750" /> 
