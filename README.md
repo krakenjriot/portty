@@ -28,6 +28,7 @@ Introduction
 
 Prerequisites 
 ============
+** upload portty hex file 
 
 
 Basic Syntax 
