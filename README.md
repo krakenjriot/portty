@@ -92,7 +92,7 @@ Exit       : x
 Toggle Pin Number: 13
 ```
 
-The pin 13 should be lit (`ON`) now
+The pin `13` should be lit (`ON`) now
 
 Type the same pin number will reverse the status of the pin
 so typing `13` again will turn `OFF` the LED (`pin 13`)
