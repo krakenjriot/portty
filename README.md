@@ -26,10 +26,12 @@ Sample Setup
 Introduction 
 ============
 
-Building the bundle
+Command Line Applications
 --------------------
-
-
+- portty.exe
+- porttymon.exe
+- porttymod.exe
+- porttysen.exe
 
 Prerequisites 
 --------------------
