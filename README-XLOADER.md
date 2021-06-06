@@ -21,14 +21,7 @@ Sample Setup
 
 <img src="https://github.com/krakenjriot/portty/blob/main/images/led-sample.png" width="750" />    
 
-[README](README.md)
-============
-
 FLASHING THE BOARD
---------------------
-
-
-Upload Hex File
 --------------------
 * Inside the package there is a folder named `xloader`, in it the applicaiton `xloader.exe` is located.
 	<img src="https://github.com/krakenjriot/portty/blob/main/images/xload-folder.png" width="750" /> 
