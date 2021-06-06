@@ -47,7 +47,9 @@ Example    : portty.exe myboard com5
 portty.exe MYBOARD com10
 ```
 
-`Output of the above command`
+Output of the above command
+--------------------
+
 ```sh
 Usage      : Internet of Things Trainer Application
 Application: PORTTY
@@ -66,10 +68,10 @@ Exit       : x
 Toggle Pin Number:
 ```
 
-Let's test it now
+Let's test it now!
 --------------------
 
-Type 13 to toggle ON the pin 13
+Type `13` to toggle `ON` the pin `13`
 
 ```sh
 Usage      : Internet of Things Trainer Application
@@ -89,7 +91,7 @@ Exit       : x
 Toggle Pin Number: 13
 ```
 
-`The pin 13 should be lit (`ON`) now`
+The pin 13 should be lit (`ON`) now
 
 Type the same pin number will reverse the status of the pin
 so typing 13 again will turn `OFF` the pin 13 or the LED.
