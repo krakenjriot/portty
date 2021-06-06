@@ -21,7 +21,7 @@ Sample Setup
 
 <img src="https://github.com/krakenjriot/portty/blob/main/images/led-sample.png" width="750" />    
 
-[HOME](README.md)
+[README](README.md)
 ============
 
 FLASHING THE BOARD
