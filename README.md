@@ -35,7 +35,9 @@ Prerequisites
 --------------------
 Upload the PORTTY Hex file  ([show me how](README-XLOADER.md))
 
-Example. Arduino Uno connected to com10, b1 as board name (any name is possible)
+Running the command PORTTY.exe
+--------------------
+
 Syntax     : portty.exe <board-name> <com-port>
 Example    : portty.exe myboard com5
   
@@ -64,12 +66,30 @@ Exit       : x
 Toggle Pin Number:
 ```
 
-Building the bundle
+Let's test it now
 --------------------
 
+Type 13 to toggle ON the pin 13
+
 ```sh
-portty.exe b1 com10
+Usage      : Internet of Things Trainer Application
+Application: PORTTY
+Version    : v1.0
+Board Type : Arduino Uno
+Licence    : MIT
+
+Status     : Connected
+Serial Port: com10
+Baud Rate  : 9600
+Board Alias: MYBOARD
+
+Help       : ?
+Exit       : x
+
+Toggle Pin Number: 13
 ```
+
+`The pin 13 should be lit now`
  
  
  
