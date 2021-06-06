@@ -71,7 +71,7 @@ Toggle Pin Number:
 Let's test it now!
 --------------------
 
-Type `13` to toggle `ON` the pin `13`
+Type `13` and press Enter key twice to toggle `ON` LED (`Pin 13`)
 
 ```sh
 Usage      : Internet of Things Trainer Application
@@ -94,9 +94,9 @@ Toggle Pin Number: 13
 The pin 13 should be lit (`ON`) now
 
 Type the same pin number will reverse the status of the pin
-so typing `13` again will turn `OFF` the pin `13` or the LED.
+so typing `13` again will turn `OFF` the LED (`pin 13`)
 
-If you want to know the sensor reading, typing t or h will give you temperature or humidity reading of the `DHT11` sensor connected
+And if you want to know the sensor reading, typing t or h will give you temperature or humidity reading of the `DHT11` sensor connected
  
 That's it. Enjoy PORTTYing! 
  
