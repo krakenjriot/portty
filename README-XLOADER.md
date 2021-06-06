@@ -23,6 +23,8 @@ Sample Setup
 
 UPLOAD THE PORTTY HEX FILE (FLASHING THE BOARD)
 --------------------
+# Uploading the hex file will convert your Arduno board into `switch board`
+
 * Inside the package there is a folder named `xloader`, in it the applicaiton `xloader.exe` is located.
 	<img src="https://github.com/krakenjriot/portty/blob/main/images/xload-folder.png" width="750" /> 
 * Select and right-click to run it as administrator
