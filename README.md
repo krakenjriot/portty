@@ -23,7 +23,14 @@ Sample Setup
 
 <img src="https://github.com/krakenjriot/portty/blob/main/images/led-sample.png" width="750" />    
 
+Introduction 
+============
 
+Prerequisites 
+============
+
+Basic Syntax 
+============
 
 Basic Syntax 
 ============
