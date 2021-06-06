@@ -28,7 +28,7 @@ Introduction
 
 Command Line Applications
 --------------------
-- portty.exe
+- [portty.exe](#PORTTY.exe)
 - porttymon.exe
 - porttymod.exe
 - porttysen.exe
