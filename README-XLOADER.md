@@ -30,21 +30,13 @@ FLASHING THE BOARD
 
 Upload Hex File
 --------------------
-Inside the package there is a folder named `/hex` run the xloader.exe and select the hex file that match 
-the board ( based on the above sample the board is Mega and DHT11 sensor and so `dht11_mega.hex`) has been selected
-and for the com port (com10) and baud rate (leave it as default)
+Inside the package there is a folder named `hex`, inside run the xloader.exe and select the hex file that match 
+the board used ( based on the above sample the board is Mega and the sensor is DHT11 and so `dht11_mega.hex`) has been selected
+and for the com port (it is COM10) and baud rate (leave it as default).
 
-### open the folder xloader
+
 <img src="https://github.com/krakenjriot/portty/blob/main/images/xload-folder.png" width="750" /> 
-
-### run the xloader.exe
 <img src="https://github.com/krakenjriot/portty/blob/main/images/xloader.png" width="750" />   
-
-### select the hex file inside hex folder
 <img src="https://github.com/krakenjriot/portty/blob/main/images/hex-folder.png" width="750" />   
 <img src="https://github.com/krakenjriot/portty/blob/main/images/select-hex.png" width="750" />   
-
-### click upload and close the xloader when completed
 <img src="https://github.com/krakenjriot/portty/blob/main/images/upload-completed.png" width="750" /> 
-
-
