@@ -24,7 +24,7 @@ Sample Setup
 UPLOAD THE PORTTY HEX FILE (FLASHING THE BOARD)
 --------------------
 
-#### Uploading the hex file will convert your Arduno board into a `switch board`, meaning to say pin 4 to 19 can be use for LED (for testing) or switching relays
+#### Uploading the hex file will convert your Arduno board into a `switch board`, pin 4 to 19 can be use for switching LED (for testing) or switching relays
 
 Let's start flashing now!
 --------------------
