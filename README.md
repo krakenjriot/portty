@@ -38,8 +38,8 @@ Upload the PORTTY Hex file  ([show me how](README-XLOADER.md))
 Running the command PORTTY.exe
 --------------------
 
-- Syntax     : portty.exe <board-name> <com-port>
-- Example    : portty.exe myboard com5
+- Syntax     : `portty.exe <board-name> <com-port>`
+- Example    : `portty.exe myboard com5`
   
 To start the portty.exe with the above settings
 
@@ -94,9 +94,9 @@ Toggle Pin Number: 13
 The pin 13 should be lit (`ON`) now
 
 Type the same pin number will reverse the status of the pin
-so typing 13 again will turn `OFF` the pin 13 or the LED.
+so typing `13` again will turn `OFF` the pin `13` or the LED.
 
-If you want to know the sensor reading, typing t or h will give you temperature or humidity reading of the DHT11 sensor connected
+If you want to know the sensor reading, typing t or h will give you temperature or humidity reading of the `DHT11` sensor connected
  
 That's it. Enjoy PORTTYing! 
  
