@@ -44,6 +44,6 @@ your arduino board type, com port and baud rate.
 <img src="https://github.com/krakenjriot/portty/blob/main/images/select-hex.png" width="750" />   
 
 ### click upload
-<img src="https://github.com/krakenjriot/portty/blob/main/images/upload-complete.png" width="750" /> 
+<img src="https://github.com/krakenjriot/portty/blob/main/images/upload-completed.png" width="750" /> 
 
 
