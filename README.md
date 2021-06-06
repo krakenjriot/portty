@@ -39,15 +39,15 @@ Upload Hex File
 Inside the package there is a folder named `/hex` run the xloader.exe and select the hex file that match 
 your arduino board type, com port and baud rate.
 
-open the folder /xloader/
+### open the folder /xloader/
 <img src="https://github.com/krakenjriot/portty/blob/main/images/xload-folder.png" width="750" /> 
-run the xloader.exe
+### run the xloader.exe
 <img src="https://github.com/krakenjriot/portty/blob/main/images/xloader.png" width="750" />   
 
-select the hex file in /hex folder
+### select the hex file in /hex folder
 <img src="https://github.com/krakenjriot/portty/blob/main/images/hex-folder.png" width="750" />   
 
-select the hex file in /hex folder
+### select the hex file in /hex folder
 <img src="https://github.com/krakenjriot/portty/blob/main/images/select-hex.png" width="750" />   
 
 
